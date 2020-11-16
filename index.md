@@ -1,3 +1,15 @@
+###个人信息
+####姓名： 陈德毅
+####学历： 硕士研究生
+####学校： 南京大学
+####邮箱： chendeyi1998@163.com
+
+###研究方向
+数据挖掘、网络测量
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chendeyi/chendeyi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
